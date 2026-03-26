@@ -1,4 +1,5 @@
-<img width="1200" height="820" alt="amazon_collage" src="https://github.com/user-attachments/assets/f49225b7-4ce4-4b36-86b4-65b18e30bf9d" /># Web-development
+# Web Development
+
 
 A collection of web development projects built while learning HTML, CSS, and JavaScript.
 
