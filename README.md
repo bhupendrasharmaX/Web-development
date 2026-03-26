@@ -1,4 +1,4 @@
-# Web-development
+<img width="1200" height="820" alt="amazon_collage" src="https://github.com/user-attachments/assets/f49225b7-4ce4-4b36-86b4-65b18e30bf9d" /># Web-development
 
 A collection of web development projects built while learning HTML, CSS, and JavaScript.
 
@@ -44,7 +44,7 @@ A collection of web development projects built while learning HTML, CSS, and Jav
 
 ## 📸 Screenshots
 
-(Add screenshots of your projects here)
+<img width="1200" height="820" alt="amazon_collage" src="https://github.com/user-attachments/assets/0915c38d-9dba-4c35-a8fe-a55590c51a9a" />
 
 ---
 
