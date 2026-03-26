@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+.choice:hover{
+    cursor: pointer;
+    border: 3px solid black;
+}
+#rock{
+    background-image: url("image/rock.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+#paper{
+    background-image: url("image/paper.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    
+}
+#scissor{
+    background-image: url("image/scissors.png");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.choices{
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2%;
+    gap: 5%;
+    background-color: aqua;
+}
+.score-board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    gap: 2%;
+    text-align: center;
+}
+
+#user-score, #computer-score{
+    font-size: 30px;
+}
+.message-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+#message{
+    /* width: 150px; */
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    display: inline;
+    text-align: center;
+    border-radius: 5px;
+}
