@@ -54,6 +54,7 @@ A collection of web development projects built while learning HTML, CSS, and Jav
 Hi, I'm Bhupendra! I'm learning web development and this repo tracks my progress.
 
 - GitHub: [@bhupendrasharmaX](https://github.com/bhupendrasharmaX)
+- Email: [bhupendra09x@gmail.com](mailto:bhupendra09x@gmail.com)
 
 ---
 
